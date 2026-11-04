@@ -1,0 +1,13 @@
+# LabVIEW user/project state
+*.aliases
+*.lvlps
+.Synaptic.UserState/
+.vscode/
+
+# Build output
+builds/
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+~*.*
